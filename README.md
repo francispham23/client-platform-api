@@ -7,9 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Commands
+# Documentation
 
-## Setup Laravel
+## Postman
+
+### Check `POST` method
+
+![alt text](/storage/app/public/images/PostMethod.png)
+
+## Commands
+
+### Setup Laravel
 
 Create and run Laravel App with MySQL
 
@@ -20,8 +28,21 @@ npm install && npm run build
 composer run dev
 ```
 
-## Setup Laravel API
+### Setup Laravel API
 
 ```bash
 php artisan install:api
+```
+
+### Authentication
+
+```bash
+# Create Auth Controller:
+php artisan make:controller AuthController
+
+# Check All Routes
+php artisan route:list
+
+# Run server
+php artisan serve
 ```
