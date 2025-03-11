@@ -7,7 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Commands
+# Commands
+
+## Setup Laravel
 
 Create and run Laravel App with MySQL
 
@@ -16,4 +18,10 @@ laravel new client-platform
 cd client-platform/
 npm install && npm run build
 composer run dev
+```
+
+## Setup Laravel API
+
+```bash
+php artisan install:api
 ```
