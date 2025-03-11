@@ -13,7 +13,11 @@
 
 ### Check `POST` method
 
-![alt text](/storage/app/public/images/PostMethod.png)
+![alt text](https://res.cloudinary.com/ddz8cmo2p/image/upload/v1741724868/Github/post-method_qzwkax.png)
+
+### Register User
+
+![alt text](https://res.cloudinary.com/ddz8cmo2p/image/upload/v1741729723/Github/register-user_zzknjz.png)
 
 ## Commands
 
