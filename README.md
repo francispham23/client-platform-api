@@ -19,6 +19,10 @@
 
 ![alt text](https://res.cloudinary.com/ddz8cmo2p/image/upload/v1741729723/Github/register-user_zzknjz.png)
 
+### Logout User (when making requests using API tokens, the token should be included in the Authorization header as a Bearer token)
+
+![alt text](https://res.cloudinary.com/ddz8cmo2p/image/upload/v1741731214/Github/logout-user_adtvvb.png)
+
 ## Commands
 
 ### Setup Laravel
